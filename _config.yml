@@ -1,0 +1,28 @@
+name: huils
+favicon: null
+layout_spectrum: 0.37258
+typography_spectrum: 0.5618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#545165'
+    - '#e7dae1'
+    - '#b0939b'
+    - '#161014'
+  brandStrength: 0.625
+  lightness: 0.9926741432864219
+  saturation: 0.9024337355513126
+  rhythmicContrast: 0.19823504355736077
+purpose: []
