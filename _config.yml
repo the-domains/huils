@@ -1,6 +1,6 @@
 name: huils
 favicon: null
-layout_spectrum: 0.37258
+layout_spectrum: 0
 typography_spectrum: 0.5618
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0d0d0d'
-    - '#b8b8b8'
-    - '#617c97'
-    - '#885333'
-    - '#e3dfd4'
+    - '#fefefe'
+    - '#020202'
+    - '#595f51'
+    - '#159d99'
+    - '#7cfffd'
   brandStrength: 0.5
-  lightness: 0.6875
-  saturation: 0.9024337355513126
-  rhythmicContrast: 0.5
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
