@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[huils]]></title>
         <description><![CDATA[huils]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/huils/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 20:28:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 20:37:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/huils/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>]]></description>
+            <link>https://thegrid.ai/huils/6dbeffed-f6fc-47aa-8732-498fa29367b7/index.html</link>
+            <guid isPermaLink="false">6dbeffed-f6fc-47aa-8732-498fa29367b7</guid>
+            <pubDate>Thu, 03 Mar 2016 20:36:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47647aec-2d75-47da-97c4-ebc0b8c05439.jpg">]]></description>
-            <link>undefined3479a798-6643-48ac-aa56-43b8c5c765ea/index.html</link>
+            <link>https://thegrid.ai/huils/3479a798-6643-48ac-aa56-43b8c5c765ea/index.html</link>
             <guid isPermaLink="false">3479a798-6643-48ac-aa56-43b8c5c765ea</guid>
-            <pubDate>Thu, 03 Mar 2016 20:27:54 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 20:33:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
